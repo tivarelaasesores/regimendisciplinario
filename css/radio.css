@@ -1,0 +1,101 @@
+@font-face {
+    font-family:"Century_Gothic";
+    src: local("Century_Gothic"),
+        url("../fonts/Century_Gothic") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-strecht: normal;
+    unicode-range: "Y+0-10FFFF";
+}
+
+body{
+    font-family: "Century_Gothic";
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.radioarte{
+    border-radius: 8px;
+    width: 700px;
+    height: 80px;
+    background-color: #1D5072;
+    margin: auto;
+    text-align: center;
+    z-index: -5000;
+}
+
+#titulo{
+    position: absolute;
+    color: #fff;
+    z-index: 5000;
+    text-align: center;
+    width: auto;
+    padding-left: 240px;
+}
+
+@media (min-width:910px) and (max-width:1390px){
+   #titulo{
+    position: absolute;
+    color: #fff;
+    z-index: 5000;
+    text-align: center;
+    width: auto;
+    padding-left: 330px;
+} 
+}
+
+@media (min-width:1400px){
+   #titulo{
+    position: absolute;
+    color: #fff;
+    z-index: 5000;
+    text-align: center;
+    width: auto;
+    padding-left: 730px;
+} 
+}
+
+
+.radiocorto{
+    border-radius: 8px;
+    width: 300px;
+    height: 80px;
+    background-color: #1D5072;
+    text-align: center;
+    z-index: -5000;
+    float: left;
+    margin-left: 50px;
+}
+
+#subtitulo{
+    position: absolute;
+    color: #fff;
+    text-align: left;
+    width: auto;
+    font-size: 16px;
+    margin-left: 65px;
+}
+
+@media (min-width:910px){
+   #subtitulo{
+    position: absolute;
+    color: #fff;
+    text-align: left;
+    width: auto;
+    font-size: 16px;
+    margin-left: 65px;
+} 
+}
+
+@media (min-width:1400px){
+   #subtitulo{
+    position: absolute;
+    color: #fff;
+    text-align: left;
+    width: auto;
+    font-size: 16px;
+    margin-left: 65px;
+} 
+}
+
+

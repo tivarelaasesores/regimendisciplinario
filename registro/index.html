@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <title>Formulario de registro</title>
+    <meta name="viewport" content="width=device-width, user-sacalable=no, initial-scale=1, maximum-scale=1, minimun-scale+=1">
+    <link rel="stylesheet" href="css/style.css">
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  </head>
+  <body>
+      <form action="registrar.php" method="post" class="form" onsubmit="return validar();">
+        <h2 class="titulo">Crea una cuenta</h2>
+          <div class="contenedor-inputs">
+        <input type="text" id="nombre" placeholder="&#8997; Nombre" name="nombre" pattern="[A-Za-Z0-9_-]{1,45}" class="input-48" required>
+        <input type="text" id="apellido1" placeholder="&#8997; Primer Apellido" name="apellido1" pattern="[A-Za-Z0-9_-]{1,30}" class="input-48" required>
+        <input type="text" id="apellido2" placeholder="&#8997; Segundo Apellido" name="apellido2" pattern="[A-Za-Z0-9_-]{1,30}" class="input-48" required>
+         <input type="email" id="correo" placeholder="&#8997; Correo" name="correo" pattern="[A-Za-Z0-9_-]{1,45}" class="input-100" required>
+        <input type="text" id="usuario" placeholder="&#8997; Usuario" name="usuario" pattern="[A-Za-Z0-9_-]{1,30}" class="input-48" required>
+         <input type="password" id="clave" placeholder="&#128273; Contraseña" name="clave" pattern="[A-Za-Z0-9_-]{1,45}" class="input-48" required>
+         <input type="text" id="telefono" placeholder="&#8997; Teléfono" name="telefono" pattern="[A-Za-Z0-9_-]{1,45}" class="input-100" required>
+          <input type="submit" value="Registrar" class="btn-enviar">
+              </div>
+      </form>
+      <script src="validar.js"></script>
+  </body>
+  </html>

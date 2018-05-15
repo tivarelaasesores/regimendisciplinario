@@ -1,0 +1,83 @@
+<!------------------------- Documentos restantes ------------------->
+        <div class="documentoizquierda">
+            <form method="post">
+            <h3>Pruebas Psicométricas</h3>
+            <input type="file" name="ppsico"><br><br>
+            <input type="submit" value="Subir">
+                </form>
+
+            <form method="post">
+                <h3>Verificación de referencias</h3>
+            <input type="file" name="vrefe"><br><br>
+            <input type="submit" value="Subir">
+                </form>
+                <!------------- CURRICULUM ---------------->
+                <h3 id="cv">Subir hoja de vida</h3>
+                <form method="post">
+                <input type="file" name="btnarchivo"><br><br>
+                <button type="submit" id="adjuntar">Adjuntar</button>
+                    </form>
+        </div>
+        <div class="documentoderecha">
+            <a href="#popup" class="popup-link">Informe de contratación</a>
+            <a href="#popup1" class="popup-link" id="cont">Contrato</a>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <a href="#popup" class="popup-link">Acciones de personal</a>
+            <a href="#popup" class="popup-link" id="cvaca">Control de vacaciones</a>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <a href="#popup" class="popup-link">Régimen disciplinario</a>
+            <a href="#popup" class="popup-link" id="frel">Finalización de relaciones</a>
+        </div>
+
+        <!---------- LINEA DECORATIVA EN EL CENTRO -------------->
+        <div class="linea"></div>
+        <!--------------- crear botón volver --------------------->
+        <a class="salir" href="../bienvenido.php"><p>Salir</p></a>
+        <!--------------- POPUP --------------------->
+        <div class="modal-wrapper" id="popup">
+   <div class="popup-contenedor">
+      <h2>El nacimiento del cristianismo</h2>
+      <p>Jesús de Nazaret fue un judío palestino condenado a muerte por Poncio Pilatos, el procurador de la provincia de Judea, la cual comprendía el territorio del viejo reino hebreo de Judea. El cristianismo surgió del judaísmo, por lo que conviene volverse hacia el mundo político-religioso judío con el fin de encontrar los comienzos del cristianismo… </p><br>
+
+          <h2>EL nacimiento del Cristianismo</h2><br><br>
+
+       <p>El cristianismo comenzó, como un movimiento religioso dentro del judaísmo, y así lo consideraron las autoridades romanas durante muchas décadas. Aunque la tradición afirma que uno de los discípulos de Cristo, Pedro, fundó la iglesia cristiana en Roma, el personaje más importante de los primeros tiempos del cristianismo, después de Jesús, fue Pablo de Tarso (c. 5-c. 67). Pablo se acercó a los no judíos y transformó el cristianismo de una secta judía en un movimiento religioso más amplio. Llamado el “segundo fundador del cristianismo”, Pablo fue un judío, ciudadano romano, muy influido por la cultura griega helenística. Creía que el mensaje de Cristo debería ser predicado no sólo a los judíos, sino a los gentiles, los no judíos. Pablo fue pionero en la fundación de comunidades cristianas a todo lo largo de Asia Menor y en las costas del mar Egeo.</p><br>
+
+       <img class="img" src="https://factoriahistorica.files.wordpress.com/2011/06/33301-navidadadanunciacionangelpastores-01_jpg.jpg?w=320&h=240"><br><br>
+
+       <p>Fue Pablo quien proveyó un fundamento universal para la difusión de las ideas de Cristo. Enseñó que Cristo era, en efecto, un Dios redentor, el hijo de Dios, que había venido a la Tierra para salvar a todos los seres humanos, pecadores, de hecho, a causa del pecado original cometido por Adán al desobedecer a Dios. Con su muerte, Cristo había expiado los pecados de la humanidad y había hecho posible que todos los hombres y mujeres experimentaran un nuevo comienzo con la posibilidad de la salvación personal. Aceptando a Cristo como salvador, ellos también podrían ser salvados. Al principio, el cristianismo se diseminó con lentitud. Aunque las enseñanzas del primitivo cristianismo se difundían mayormente por la prédica de los cristianos proselitistas, también hicieron su aparición materiales escritos. Pablo escribió una serie de cartas, o epístolas, que delineaban las creencias cristianas en diferentes comunidades. Asimismo, algunos de los discípulos de Cristo bien pudieron conservar algunos de los dichos del maestro en forma escrita, y los transmitieron como memorias personales, que más tarde llegaron a constituir las bases de los evangelios escritos, la buena nueva respecto a Cristo, los cuales trataron de formular un registro de la vida y de las enseñanzas de Cristo, y establecieron el núcleo del Nuevo Testamento. Aunque Jerusalén fue el primer centro del cristianismo, su destrucción por los romanos en el año 70 de nuestra era dejó a las iglesias cristianas con una considerable independencia. Alrededor del año 100 se hablan fundado iglesias cristianas en muchas de las ciudades principales del oriente, así como en algunos lugares de la parte occidental del imperio. Muchos de los primeros cristianos provenían de las filas de los judíos helenizados y de las poblaciones del oriente de habla griega. Pero en los siglos III y IV, un creciente número de seguidores hablaban latín. Una traducción latina del Nuevo Testamento, escrito originalmente en griego, aparecida poco después del año 200, ayudó a este proceso.</p><br>
+
+       <img src="https://factoriahistorica.files.wordpress.com/2011/06/cristianosprimitivos.jpeg?w=293&h=172"><br><br>
+
+       <p>
+        Los grupos de primeros cristianos se reunían al atardecer en casas privadas para compartir una comida comunal, llamada ágape, o banquete de amor, y para celebrar lo que llegó a conocerse como el sacramento de la eucaristía, o cena del Señor, celebración comunal de la última cena de Cristo: Mientras comían, Jesús tomó pan, lo bendijo, lo partió y lo dio a sus discípulos diciendo: Tomad y comed; éste es mi cuerpo.  Luego tomó una copa, dio gracias y la ofreció, diciendo: bebed todos de esta copa, esta es mi sangre de la alianza, que es derramada por muchos para el perdón de los pecados. Al formarse las primeras comunidades cristianas tenían una organización flexible, en la que hombres y mujeres desempeñaban funciones importantes. Algunas mujeres ejercían posiciones relevantes y, a menudo, como predicadoras. Las iglesias locales se congregaban bajo el gobierno de consejos de ancianos, o presbíteros, pero, a principios del segundo siglo, ciertos funcionarios conocidos como obispos llegaron a ejercer considerable autoridad sobre los presbíteros. Estos obispos basaban su posición de superioridad en la sucesión apostólica: como sucesores de los doce primigenios apóstoles de Jesús, eran los delegados vivientes del poder de Cristo. Tal y como Ignacio de Antioquía escribió en el año 107: “Es obvio que debemos mirar a un obispo como al Señor en persona … Sus clérigos… están en armonía con su obispo como las cuerdas de un arpa, y el resultado es un himno de alabanza a Jesucristo de mentes que sienten al unísono” Los obispos solamente eran varones, indicio claro de que en el siglo u de nuestra era la mayor parte de las comunidades cristianas coincidían con el punto de vista de Pablo, respecto a que las mujeres cristianas deberían estar sujetas a la autoridad de los varones cristianos.
+
+A pesar de que algunos de los valores fundamentales del cristianismo diferían marcadamente de los del mundo greco-romano, al principio los romanos no prestaron mucha atención a los cristianos, a quienes consideraban simplemente una secta más del judaísmo. La propia estructura del Imperio Romano ayudó al crecimiento del cristianismo. Los misioneros cristianos, incluyendo algunos de los doce apóstoles o discípulos originales de Cristo, utilizaron los caminos romanos para trasladarse por todo el imperio difundiendo la “buena nueva”.  Sin embargo, conforme transcurrió el tiempo, la actitud de los romanos hacia el cristianismo comenzó a cambiar. Como hemos visto, los romanos fueron tolerantes con otras religiones, salvo cuando amenazaban el orden o la moral públicos. Muchos romanos llegaron a considerar el cristianismo peligroso para el orden del estado romano. Estas opiniones a menudo se basaron en interpretaciones erróneas. Por ejemplo, la práctica de la cena del Señor dio origen a rumores de que los cristianos practicaban crímenes horrendos, como el asesinato ritual de niños. Si bien sabemos que esos rumores eran falsos, ciertos romanos los creyeron y los manipularon en tiempos de crisis para incitar al pueblo contra los cristianos. Es más, como los cristianos llevaban a cabo sus reuniones en secreto y parecían estar en comunicación con cristianos localizados en otras áreas, el gobierno podía juzgarlos potencialmente peligrosos para el estado. Algunos romanos pensaron que los cristianos eran excluyentes en exceso y, por lo tanto, nocivos para la comunidad y el orden público. Los cristianos no aceptaban a otros dioses y, en consecuencia, se abstenían de asistir a los festivales públicos que honraban a esas deidades. Por último, los cristianos se rehusaban a participar en la adoración de los dioses del estado y en el culto imperial. Dado que los romanos consideraban estas ceremonias importantes para el estado, el rechazo de los cristianos ponía en peligro la seguridad del estado y en consecuencia, constituía un acto de traición, punible con la muerte. También constituía una prueba de ateísmo no creer en los dioses, y estaba sujeto a castigo bajo estos cargos. Sin embargo, para los cristianos, quienes creían que únicamente había un solo y verdadero dios adoración de los dioses del estado y de los emperadores era idolatría, lo cual pondría en peligro su propia salvación.
+       </p>
+
+       <h3>Puedes también darle clic al boton de abajo para descargar el documento entero.</h3>
+
+       <a class="boton" href="documentos/EL%20NACIMIENTO%20DEL%20CRISTIANISMO.pdf" download="ElNacimientodelCristianismo">Descargar información en PDF</a>
+
+
+      <a class="popup-cerrar" href="#">X</a>
+   </div>
+</div>
+        <!---------------- POPUP1 ------------------->
+        <div class="modal-wrapper" id="popup1">
+   <div class="popup-contenedor">
+      <h2>Ejemplo dos</h2>
+      <p>Y aqui empieza los resultados emocionantes que la gente simplemente dira que programa mas genial y al final todo brillara.</p>
+      <a class="popup-cerrar" href="#">X</a>
+   </div>
+</div>
