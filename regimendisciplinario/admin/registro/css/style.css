@@ -1,0 +1,82 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: sans-serif;
+    background-image: url(../img/inicio2.png);
+    background-repeat: no-repeat;
+    background-size: 5000px 792px;
+    font-family: "Century_Gothic";
+    font-style: normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family:"Century_Gothic";
+    src: local("Century_Gothic"),
+        url("../fonts/Century_Gothic") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-strecht: normal;
+    unicode-range: "Y+0-10FFFF";
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+}
+
+.logo{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.center-align{
+  margin-top: 80px;
+  color: #fff;
+}
+
+.formularios{
+  text-align: center;
+  margin: auto;
+}
+
+.formularios td{
+  text-align: center;
+  width: 90px;
+  height: 90px;
+  background-color:#1D5072;
+}
+
+a{
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+}
+
+.formularios td:hover{
+  background-color:#55C9EA;
+}
+
+.brand-logo{
+  margin-top: 20px;
+}
+
+.btninicio {
+    background-color: #1D5072;
+    width: 100px;
+    float: right;
+    margin-right: 20px;
+}
+
+.btninicio a{
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+}
+
+.btninicio a:hover{
+  color: #55C9EA;
+}

@@ -1,9 +1,9 @@
 <?php
     class Conexion{
         //Atributos
-        private $hostname = "localhost";
+        private $hostname = "localhost:3307";
 		private $username = "root";
-		private $password = "";
+		private $password = "root";
 		private $database = "proyecto";
 		private $resultado = array();
 		private $res = false;

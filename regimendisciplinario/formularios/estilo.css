@@ -1,0 +1,127 @@
+*{
+    text-align: center;
+    margin: auto;
+    padding: 0;
+    text-decoration: none;
+    font-family: fuente1;
+}
+
+@font-face {
+    font-family:"Century_Gothic";
+    src: local("Century_Gothic"),
+        url("../fonts/Century_Gothic") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-strecht: normal;
+    unicode-range: "Y+0-10FFFF";
+  }
+
+body{
+  background-image: url(../img/inicio2.png);
+  background-repeat: no-repeat;
+  background-size: 5000px 792px;
+  font-family: "Century_Gothic";
+  font-style: normal;
+  font-stretch: normal;
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+
+h1, h2, h3 {
+    color: #fff;
+}
+
+p{
+    font-size: 1.3em;
+}
+
+.titulo{
+    margin-top: 20px;
+}
+
+@font-face {
+    font-family: "fuente1";
+    font-style:normal;
+    font-weight: normal;
+    src: local("?"), url("../font/fuente1.tff") format("truetype");
+}
+
+.formulario{
+    width: 90%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 580px;
+    max-width: 800px;
+}
+
+.all{
+    width: 80%;
+    margin: auto;
+    height: 40px;
+    background-color: #fff;
+    border-style: solid;
+    margin-top: 20px;
+    font-size: 1.3em;
+}
+
+.medium{
+    border-style: solid;
+    background-color: #fff;
+    width: 39.5%;
+    height: 30px;
+    margin-top: 20px;
+    font-size: 1.3em;
+}
+
+.enviar{
+    width: 20%;
+    margin-top: 27px;
+    margin-bottom: 20px;
+    height: 60px;
+    background-color: #fff;
+    color: orangered;
+    border-style: groove;
+    border-color: red;
+    font-size: 1.5em;
+}
+
+.foto {
+    overflow: hidden;
+    position: relative;
+    border-radius: 20px;
+    border-style: solid;
+    padding: 5px;
+}
+
+.desplegar {
+    font-size: 1.3em;
+    margin-top: 20px;
+}
+
+.desplegar select{
+    padding: 5px 60px;
+    font-size: 0.8em;
+}
+
+.desplegar1 {
+    font-size: 1.3em;
+    margin-top: 20px;
+}
+
+.desplegar1 select{
+    padding: 5px 60px;
+    font-size: 0.8em;
+}
+
+#boton{
+    border-radius: 10em;
+    padding: 30px 15px;
+    background-color: #1D5072;
+    margin-bottom: 30px;
+}
+
+#boton a{
+    color: #fff;
+    font-size: 2em;
+}
